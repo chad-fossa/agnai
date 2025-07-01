@@ -83,7 +83,7 @@
     "bcryptjs": "^2.4.3",
     "chance": "^1.1.11",
     "cors": "^2.8.5",
-    "dotenv": "^16.0.3",
+    "dotenv": "^17.0.0",
     "easy-speech": "^2.1.1",
     "evtstore": "^12.0.1",
     "express": "^4.18.2",
